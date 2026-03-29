@@ -31,7 +31,7 @@ A passionate **Fullstack Web Developer** dedicated to building beautiful, functi
 
 #### Backend & Logging
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,docker" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
   <br>
   <img src="https://img.shields.io/badge/Winston-white?style=flat-square&logo=winston&logoColor=black" alt="Winston" height="25"/>
   <img src="https://img.shields.io/badge/Pino-black?style=flat-square&logo=pino&logoColor=white" alt="Pino" height="25"/>
@@ -39,7 +39,7 @@ A passionate **Fullstack Web Developer** dedicated to building beautiful, functi
 
 #### Tools & Testing
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,babel,jest,postman" />
+  <img src="https://skillicons.dev/icons?i=git,babel,jest,postman,docker" />
 </p>
 
 ---
