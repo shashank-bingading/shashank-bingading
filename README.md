@@ -21,7 +21,7 @@ A passionate **Fullstack Web Developer** dedicated to building beautiful, functi
 
 #### Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,js" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,js,ts" />
 </p>
 
 #### Frontend & Frameworks
