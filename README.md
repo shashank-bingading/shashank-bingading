@@ -37,6 +37,17 @@ A passionate **Fullstack Web Developer** dedicated to building beautiful, functi
   <img src="https://img.shields.io/badge/Pino-black?style=flat-square&logo=pino&logoColor=white" alt="Pino" height="25"/>
 </p>
 
+#### AI / ML, GenAI & Agentic AI *(currently exploring & experimenting)*
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi" />
+  <br>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" height="25"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" height="25"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" height="25"/>
+  <img src="https://img.shields.io/badge/RAG-6E40C9?style=flat-square" alt="RAG" height="25"/>
+  <img src="https://img.shields.io/badge/Agentic%20AI-0A66C2?style=flat-square" alt="Agentic AI" height="25"/>
+</p>
+
 #### Tools & Testing
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,babel,jest,postman,docker" />
